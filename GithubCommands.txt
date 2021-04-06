@@ -12,3 +12,6 @@ git push origin ramaEjemplo:RamaDiccionarios   --ramaEjemplo es mi rama el dos p
 
 
 git log --oneline     ---para ver en que rama estoy
+
+
+git push origin ramaEjemplo:RamaDiccionarios   --- actualizar la rama
